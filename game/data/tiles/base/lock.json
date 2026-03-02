@@ -1,0 +1,9 @@
+{
+    "type": "lock",
+    "name": "Lock",
+    "actions": [
+        "unlock",
+        "bypass"
+    ],
+    "walkable": false
+}

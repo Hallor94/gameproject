@@ -1,0 +1,4 @@
+# config/constants.py
+FPS = 60
+BASE_RESOLUTION = (1280, 720)
+TILE_BASE_HEIGHT = 140

@@ -1,0 +1,9 @@
+{
+    "type": "kitchen",
+    "name": "Kitchen",
+    "actions": [
+        "cook",
+        "search"
+    ],
+    "walkable": true
+}

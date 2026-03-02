@@ -1,0 +1,9 @@
+{
+    "name": "Tony Gabagool",
+    "base_name": "gabagool",
+    "description": "An angry chef with a cleaver and a short fuse, possible italian heritage.",
+    "hp": 9,
+    "move": 3,
+    "attack": 3,
+    "factions": ["Crew"]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "power_core",
+    "name": "Power Core",
+    "actions": [
+        "activate",
+        "disable"
+    ],
+    "walkable": false
+}
