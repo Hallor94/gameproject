@@ -1,9 +1,0 @@
-{
-    "type": "armory",
-    "name": "Armory",
-    "actions": [
-        "equip",
-        "search"
-    ],
-    "walkable": true
-}

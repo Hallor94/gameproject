@@ -1,9 +1,0 @@
-{
-    "name": "Doc Vic",
-    "base_name": "docvic",
-    "description": "An eccentric doctor and unhinged scientist.",
-    "hp": 7,
-    "move": 4,
-    "attack": 1,
-    "factions": ["Crew","Medics"]
-}

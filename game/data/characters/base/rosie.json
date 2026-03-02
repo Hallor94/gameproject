@@ -1,9 +1,0 @@
-{
-    "name": "Rosie",
-    "base_name": "rosie",
-    "description": "A sharp, grease-stained mechanic who can fix anything\u2014and break it too.",
-    "hp": 7,
-    "move": 3,
-    "attack": 2,
-    "factions": ["Crew","Mechanics"]
-}

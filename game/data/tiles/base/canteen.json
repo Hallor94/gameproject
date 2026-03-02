@@ -1,9 +1,0 @@
-{
-    "type": "canteen",
-    "name": "Canteen",
-    "actions": [
-        "eat",
-        "socialize"
-    ],
-    "walkable": true
-}

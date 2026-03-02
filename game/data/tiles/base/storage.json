@@ -1,9 +1,0 @@
-{
-    "type": "storage",
-    "name": "Storage",
-    "actions": [
-        "search",
-        "loot"
-    ],
-    "walkable": true
-}

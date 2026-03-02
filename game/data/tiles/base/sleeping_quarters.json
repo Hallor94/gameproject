@@ -1,9 +1,0 @@
-{
-    "type": "sleeping_quarters",
-    "name": "Sleeping Quarters",
-    "actions": [
-        "rest",
-        "search"
-    ],
-    "walkable": true
-}

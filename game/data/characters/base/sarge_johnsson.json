@@ -1,9 +1,0 @@
-{
-    "name": "Sarge Johnsson",
-    "base_name": "sarge",
-    "description": "A tough-as-nails retired sergeant who\u2019s seen it all.",
-    "hp": 11,
-    "move": 2,
-    "attack": 2,
-    "factions": ["Crew","Soldiers","Officers"]
-}
