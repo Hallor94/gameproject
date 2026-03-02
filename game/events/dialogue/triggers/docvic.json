@@ -1,0 +1,79 @@
+[
+    {
+        "event": "character_moved",
+        "who": "docvic",
+        "chance": 0.4,
+        "lines": [
+            "I hope there's something interesting to dissect here...",
+            "Hmmm, unfamiliar spores in the air...",
+            "This reminds me of my first explosion."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:office",
+        "who": "docvic",
+        "chance": 0.5,
+        "lines": [
+            "Is this where the paperwork lives?",
+            "Smells like admin."
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "docvic",
+        "chance": 0.7,
+        "lines": [
+            "Observation mode: engaged.",
+            "Perfect time to take notes...",
+            "Hmmm. Curious.",
+            "My feet hurt."
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "docvic",
+        "chance": 1.0,
+        "lines": [
+            "Hypothesis: It\u2019s my turn.",
+            "Engaging procedural steps.",
+            "Let\u2019s study the unknown."
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "docvic",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "docvic",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "docvic",
+        "target": "abe",
+        "chance": 0.8,
+        "lines": [
+            "docvic meets abe, line 1",
+            "docvic meets abe, line 2"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "docvic",
+        "target": "any",
+        "chance": 0.8,
+        "lines": [
+            "docvic meets any, line 1",
+            "docvic meets any, line 2"
+        ]
+    }
+]

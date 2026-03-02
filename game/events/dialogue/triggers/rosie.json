@@ -1,0 +1,79 @@
+[
+    {
+        "event": "character_moved",
+        "who": "rosie",
+        "chance": 0.4,
+        "lines": [
+            "Gonna need to oil my joints after this.",
+            "This place better have a wrench.",
+            "Hey, I didn\u2019t break that one!"
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:storage",
+        "who": "rosie",
+        "chance": 0.5,
+        "lines": [
+            "Storage? Jackpot.",
+            "Bet I can build a flamethrower in here."
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "rosie",
+        "chance": 0.7,
+        "lines": [
+            "Ugh, fine, I'll wait.",
+            "Let me know when it's wrench time.",
+            "I could\u2019ve rewired the door by now.",
+            "Anyone seen my no. 10 wrench?"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "rosie",
+        "chance": 1.0,
+        "lines": [
+            "Hope I brought enough duct tape.",
+            "Where\u2019s the fun in standing still?",
+            "Let\u2019s crack some panels."
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "rosie",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "rosie",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "rosie",
+        "target": "abe",
+        "chance": 0.8,
+        "lines": [
+            "rosie meets abe, line 1",
+            "rosie meets abe, line 2"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "rosie",
+        "target": "any",
+        "chance": 0.8,
+        "lines": [
+            "rosie meets any, line 1",
+            "rosie meets any, line 2"
+        ]
+    }
+]

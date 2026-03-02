@@ -1,0 +1,71 @@
+[
+    {
+        "event": "meeting_another_player",
+        "who": "jackie",
+        "target": "sarge_johnsson",
+        "chance": 0.8,
+        "lines": [
+            "What\u2019s the matter, Sarge? You look lost.",
+            "Seen bigger tempers in a teacup.",
+            "Still barking orders, huh?"
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "jackie",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "jackie",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "jackie",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "jackie",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "jackie",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "jackie",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "jackie",
+        "target": "abe",
+        "chance": 0.8,
+        "lines": [
+            "jackie meets abe, line 1",
+            "jackie meets abe, line 2"
+        ]
+    }
+]

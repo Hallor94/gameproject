@@ -1,0 +1,76 @@
+[
+    {
+        "event": "character_moved",
+        "who": "abe",
+        "chance": 0.4,
+        "lines": [
+            "Feet know the way even if I don\u2019t.",
+            "Let\u2019s hope Gulliver doesn\u2019t fly ahead.",
+            "Smells like sea rot... or maybe just me."
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "abe",
+        "chance": 0.4,
+        "lines": [
+            "Letting the wind decide today.",
+            "Sometimes you drift. Just happens.",
+            "Even captains need a moment to think."
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "abe",
+        "chance": 0.4,
+        "lines": [
+            "Storm's coming\u2014I feel it in my beard.",
+            "Right then. Let\u2019s make some waves.",
+            "Eyes open, Gulliver. Let\u2019s go."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "abe",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "abe",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "abe",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "abe",
+        "target": "any",
+        "chance": 0.8,
+        "lines": [
+            "abe meets any, line 1",
+            "abe meets any, line 2"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "abe",
+        "target": "doc_vic",
+        "chance": 0.8,
+        "lines": [
+            "abe meets doc_vic, line 1",
+            "abe meets doc_vic, line 2"
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "event": "character_moved",
+        "who": "gabagool",
+        "chance": 0.4,
+        "lines": [
+            "I swear if someone moved my knives...",
+            "This place got a fridge?",
+            "I didn\u2019t come here to walk laps!"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "gabagool",
+        "chance": 0.7,
+        "lines": [
+            "I ain't movin'.",
+            "Thinkin' 'bout meatballs...",
+            "Wake me when it\u2019s dinner time.",
+            "I need a smoke."
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "gabagool",
+        "chance": 1.0,
+        "lines": [
+            "Alright alright, I\u2019m moving.",
+            "Someone better be making pasta.",
+            "Let\u2019s make this quick."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "gabagool",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "gabagool",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "gabagool",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "gabagool",
+        "target": "abe",
+        "chance": 0.8,
+        "lines": [
+            "gabagool meets abe, line 1",
+            "gabagool meets abe, line 2"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "gabagool",
+        "target": "any",
+        "chance": 0.8,
+        "lines": [
+            "gabagool meets any, line 1",
+            "gabagool meets any, line 2"
+        ]
+    }
+]

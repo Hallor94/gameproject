@@ -1,0 +1,90 @@
+[
+    {
+        "event": "character_moved",
+        "who": "sarge",
+        "chance": 0.3,
+        "lines": [
+            "Double time, sir!",
+            "On the double!",
+            "On my way, sir!"
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "sarge",
+        "chance": 0.5,
+        "lines": [
+            "Clear a path.",
+            "Eyes forward.",
+            "Feels like '82 again."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:armory",
+        "who": "sarge",
+        "chance": 0.7,
+        "lines": [
+            "Now we\u2019re talking.",
+            "Time to gear up.",
+            "Smells like victory."
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "sarge",
+        "chance": 0.7,
+        "lines": [
+            "Standing by, sir!",
+            "Pause for tactical advantage.",
+            "Let the kids move first.",
+            "Getting too old for this shit..."
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "sarge",
+        "chance": 1.0,
+        "lines": [
+            "Operational control resumed.",
+            "Eyes forward. We move.",
+            "Let\u2019s do this by the book."
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "sarge",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "sarge",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "sarge",
+        "target": "abe",
+        "chance": 0.8,
+        "lines": [
+            "sarge meets abe, line 1",
+            "sarge meets abe, line 2"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "sarge",
+        "target": "any",
+        "chance": 0.8,
+        "lines": [
+            "sarge meets any, line 1",
+            "sarge meets any, line 2"
+        ]
+    }
+]

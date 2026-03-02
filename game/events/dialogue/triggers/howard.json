@@ -1,0 +1,76 @@
+[
+    {
+        "event": "character_moved",
+        "who": "howard",
+        "chance": 0.4,
+        "lines": [
+            "Please let this be safe...",
+            "Oh no oh no oh no...",
+            "Why am I always the one walking first?"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "howard",
+        "chance": 0.4,
+        "lines": [
+            "Good. Safe. No one exploded.",
+            "Maybe they'll forget I'm here.",
+            "Passing, definitely passing."
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "howard",
+        "chance": 0.4,
+        "lines": [
+            "Is it my turn? Oh... great.",
+            "I swear I didn\u2019t sign up for this.",
+            "Just stay calm, Howard..."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "howard",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "howard",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "howard",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "howard",
+        "target": "abe",
+        "chance": 0.8,
+        "lines": [
+            "howard meets abe, line 1",
+            "howard meets abe, line 2"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "howard",
+        "target": "any",
+        "chance": 0.8,
+        "lines": [
+            "howard meets any, line 1",
+            "howard meets any, line 2"
+        ]
+    }
+]

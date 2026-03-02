@@ -1,0 +1,71 @@
+[
+    {
+        "event": "meeting_another_player",
+        "who": "mira",
+        "target": "howard",
+        "chance": 0.8,
+        "lines": [
+            "Still alive, huh? Impressive.",
+            "Don\u2019t pass out on me, bean counter.",
+            "Try not to panic this time."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "mira",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "mira",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "mira",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "mira",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "mira",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "mira",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "mira",
+        "target": "abe",
+        "chance": 0.8,
+        "lines": [
+            "mira meets abe, line 1",
+            "mira meets abe, line 2"
+        ]
+    }
+]

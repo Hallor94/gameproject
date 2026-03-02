@@ -1,0 +1,175 @@
+[
+    {
+        "event": "meeting_another_player",
+        "condition": "meeting_another_player",
+        "chance": 0.5,
+        "lines": [
+            "Don't you owe me money?",
+            "Nooo...."
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "condition": "meeting_another_player",
+        "chance": 0.5,
+        "lines": [
+            "Let's grab a beer when we're done",
+            "Sure!",
+            "McLarens?"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "condition": "meeting_another_player",
+        "chance": 0.5,
+        "lines": [
+            "What are *you* doing here?",
+            "Keeping you alive, apparently."
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "condition": "meeting_another_player",
+        "chance": 0.5,
+        "lines": [
+            "Don’t tell me you touched the red valve.",
+            "I *thought* it was a fire alarm."
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "condition": "meeting_another_player",
+        "chance": 0.4,
+        "lines": [
+            "This place gives me the creeps.",
+            "You’re not the only one."        
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "condition": "meeting_another_player",
+        "chance": 0.4,
+        "lines": [
+            "Watch your step.",
+            "You watch *your* step."
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "condition": "meeting_another_player",
+        "chance": 0.3,
+        "lines": [
+            "You hear that noise?",
+            "No. And that’s worse."
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "condition": "meeting_another_player",
+        "chance": 0.3,
+        "lines": [
+            "You take point.",
+            "I hate when you say that."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:kitchen",
+        "chance": 0.5,
+        "lines": [
+            "Smells like burnt soup in here.",
+            "Kitchen... my kingdom.",
+            "Someone left the stove on again."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:power",
+        "chance": 0.5,
+        "lines": [
+            "Power levels seem... unstable.",
+            "Let's not touch anything glowing.",
+            "If it sparks, I'm blaming you."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:sleeping",
+        "chance": 0.5,
+        "lines": [
+            "Could use a nap...",
+            "Bunks? I don’t trust those springs.",
+            "Still smells like someone’s boots in here."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:corridor",
+        "chance": 0.3,
+        "lines": [
+            "Just another hallway.",
+            "Which way’s out again?",
+            "Feels like I've walked this stretch ten times."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:lock",
+        "chance": 0.5,
+        "lines": [
+            "This door better stay shut.",
+            "What are they hiding in there?",
+            "Locked tight. That’s... not comforting."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:canteen",
+        "chance": 0.5,
+        "lines": [
+            "What's left to eat in here?",
+            "Same slop, different day.",
+            "If I see that grey stew again, I’m revolting."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:storage",
+        "chance": 0.5,
+        "lines": [
+            "Hope there's something useful in here.",
+            "Stacked floor to ceiling. Typical.",
+            "Why is it always the bottom box we need?"
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:armory",
+        "chance": 0.5,
+        "lines": [
+            "Locked and loaded... maybe.",
+            "Smells like gun oil and bad decisions.",
+            "Let’s hope the safeties still work."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "tile_is_type:office",
+        "chance": 0.5,
+        "lines": [
+            "Paperwork and paranoia.",
+            "This place reeks of coffee and secrets.",
+            "Somebody's been in here recently."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "condition": "is_first_time_in_room",
+        "chance": 0.4,
+        "lines": [
+            "First time here. Let's see what we’ve got...",
+            "New territory. Better stay alert.",
+            "What in the world is this."
+        ]
+    }
+]

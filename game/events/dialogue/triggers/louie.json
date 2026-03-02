@@ -1,0 +1,71 @@
+[
+    {
+        "event": "meeting_another_player",
+        "who": "louie",
+        "target": "tony_gabagol",
+        "chance": 0.8,
+        "lines": [
+            "You stay outta my galley, Tony.",
+            "Touch my stew again and I\u2019ll touch you.",
+            "We're gonna need a bigger pantry..."
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "louie",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "character_moved",
+        "who": "louie",
+        "chance": 0.4,
+        "lines": [
+            "...character moved line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "louie",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_passed",
+        "who": "louie",
+        "chance": 0.4,
+        "lines": [
+            "...turn passed line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "louie",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 1 (placeholder)"
+        ]
+    },
+    {
+        "event": "turn_started",
+        "who": "louie",
+        "chance": 0.4,
+        "lines": [
+            "...turn started line 2 (placeholder)"
+        ]
+    },
+    {
+        "event": "meeting_another_player",
+        "who": "louie",
+        "target": "abe",
+        "chance": 0.8,
+        "lines": [
+            "louie meets abe, line 1",
+            "louie meets abe, line 2"
+        ]
+    }
+]
