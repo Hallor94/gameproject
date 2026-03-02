@@ -1,0 +1,25 @@
+[
+  {
+    "label": "Activate backup systems",
+    "category": "Main",
+    "visible": true,
+    "conditions": {
+      "switches": {
+        "type": "counter",
+        "value": 0,
+        "target": 3,
+        "on_met": "success"
+      },
+      "turns": {
+        "type": "timer",
+        "value": 0,
+        "target": 5,
+        "interval": 1.0,
+        "auto_increment": true,
+        "on_exceed": "fail"
+      }
+    },
+    "on_success": "backup_online",
+    "on_fail": "fail_escape"
+  }
+]
